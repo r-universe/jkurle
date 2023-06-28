@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "ivgets"]
 	path = ivgets
 	url = https://github.com/jkurle/ivgets
-	shallow = true
-	registered = true
 [submodule "robust2sls"]
 	path = robust2sls
 	url = https://github.com/jkurle/robust2sls
-	shallow = true
-	registered = true
